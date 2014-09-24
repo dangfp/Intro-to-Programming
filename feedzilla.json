@@ -1,0 +1,11 @@
+--2014-09-18 15:33:18--  http://api.feedzilla.com/v1/categories/8/articles.json
+Resolving api.feedzilla.com... 109.123.81.101
+Connecting to api.feedzilla.com|109.123.81.101|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12336 (12K) [application/json]
+Saving to: 'articles.json'
+
+     0K .......... ..                                         100% 14.6K=0.8s
+
+2014-09-18 15:33:20 (14.6 KB/s) - 'articles.json' saved [12336/12336]
+
